@@ -1,3 +1,5 @@
 #import user
-
 #print(uid)
+
+#import user as rajani
+#print(rajani.uid)
